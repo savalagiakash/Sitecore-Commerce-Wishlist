@@ -14,4 +14,6 @@ This wishlist plugin has implementation of 3 apis
 
 These api can be access through sitecore commerce proxy into sitecore once we deploy this plugin in commerce websites.
 
+Note: This plugin is not extension of OOTB sxa wishlist.
+
 
